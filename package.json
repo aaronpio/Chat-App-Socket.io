@@ -1,7 +1,6 @@
 {
   "name": "chat-app",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,5 +15,14 @@
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronpio/Chat-App-Socket.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aaronpio/Chat-App-Socket.io/issues"
+  },
+  "homepage": "https://github.com/aaronpio/Chat-App-Socket.io#readme",
+  "description": ""
 }
